@@ -1,3 +1,15 @@
+# 2019-10-21: Mozilla has disabled Page Translator
+
+Mozilla has made the Web less accessible to people who need to access information in another language, taken an absolutist position, and removed freedom of users to extend their browser.
+
+You can read the details [here](https://www.jeremiahlee.com/posts/page-translator-is-dead/) and discuss with other users [here](https://github.com/jeremiahlee/page-translator/issues/26).
+
+### Use this extension instead: https://github.com/andreicristianpetcu/google_translate_this
+
+Original readme below.
+
+<hr>
+
 # [Click here to install Page Translator](https://github.com/jeremiahlee/page-translator/releases/download/v1.0.5/page_translator-1.0.5-an.fx.xpi)
 
 One-click in-line page translation for Firefox
